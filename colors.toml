@@ -1,6 +1,6 @@
 mode = "dark"
 
-accent = "#860111"
+accent = "#e35053"
 # This refers to "selection background"
 selection = "#5a000b"
 # This refers to "muted text"
@@ -11,7 +11,7 @@ dark_background = "#000000"
 darker_background = "#000000"
 lighter_background = "#330000"
 
-foreground = "#860111"
+foreground = "#e35053"
 dark_foreground = "#5a000b"
 light_foreground = "#ff0022"
 bright_foreground = "#ffffff"
