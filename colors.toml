@@ -1,0 +1,33 @@
+mode = "dark"
+
+accent = "#860111"
+# This refers to "selection background"
+selection = "#5a000b"
+# This refers to "muted text"
+muted = "#5a000b"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#330000"
+
+foreground = "#860111"
+dark_foreground = "#5a000b"
+light_foreground = "#ff0022"
+bright_foreground = "#ffffff"
+
+red = "#860111"
+yellow = "#860111"
+orange = "#860111"
+green = "#5a000b"
+cyan = "#860111"
+blue = "#860111"
+magenta = "#ff0022"
+brown = "#5a000b"
+
+bright_red = "#ff0022"
+bright_yellow = "#860111"
+bright_green = "#5a000b"
+bright_cyan = "#ff0022"
+bright_blue = "#ff0022"
+bright_magenta = "#ff0022"
