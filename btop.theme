@@ -20,9 +20,10 @@ theme[selected_bg]="#860111"
 theme[selected_fg]="#F6CACC"
 
 # Color of inactive/disabled text
-theme[inactive_fg]="#DD2C2F"
+theme[inactive_fg]="#AC1C1E"
 
-# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+# Misc colors for processes box including mini cpu graphs,
+# details memory graph and details status text
 theme[proc_misc]="#E35053"
 
 # Cpu box outline color
@@ -38,44 +39,44 @@ theme[net_box]="#AC1C1E"
 theme[proc_box]="#D02224"
 
 # Box divider line and small boxes line color
-theme[div_line]="#5A000B"
+theme[div_line]="#9C191B"
 
 # Temperature graph colors
-theme[temp_start]="#AC1C1E"
-theme[temp_mid]="#DD2C2F"
+theme[temp_start]="#BD1F21"
+theme[temp_mid]="#E66063"
 theme[temp_end]="#FF0022"
 
 # CPU graph colors
-theme[cpu_start]="#5A000B"
-theme[cpu_mid]="#D02224"
-theme[cpu_end]="#E66063"
+theme[cpu_start]="#BD1F21"
+theme[cpu_mid]="#E66063"
+theme[cpu_end]="#FF0022"
 
 # Mem/Disk free meter
-theme[free_start]="#5A000B"
-theme[free_mid]="#9C191B"
-theme[free_end]="#BD1F21"
+theme[free_start]="#BD1F21"
+theme[free_mid]="#E66063"
+theme[free_end]="#FF0022"
 
 # Mem/Disk cached meter
-theme[cached_start]="#5A000B"
-theme[cached_mid]="#AC1C1E"
-theme[cached_end]="#D02224"
+theme[cached_start]="#BD1F21"
+theme[cached_mid]="#E66063"
+theme[cached_end]="#FF0022"
 
 # Mem/Disk available meter
-theme[available_start]="#860111"
-theme[available_mid]="#BD1F21"
-theme[available_end]="#E35053"
+theme[available_start]="#BD1F21"
+theme[available_mid]="#E66063"
+theme[available_end]="#FF0022"
 
 # Mem/Disk used meter
-theme[used_start]="#9C191B"
-theme[used_mid]="#DD2C2F"
+theme[used_start]="#BD1F21"
+theme[used_mid]="#E66063"
 theme[used_end]="#FF0022"
 
 # Download graph colors
-theme[download_start]="#5A000B"
-theme[download_mid]="#AC1C1E"
-theme[download_end]="#E35053"
+theme[download_start]="#BD1F21"
+theme[download_mid]="#E66063"
+theme[download_end]="#FF0022"
 
 # Upload graph colors
-theme[upload_start]="#860111"
-theme[upload_mid]="#D02224"
-theme[upload_end]="#E66063"
+theme[upload_start]="#BD1F21"
+theme[upload_mid]="#E66063"
+theme[upload_end]="#FF0022"
